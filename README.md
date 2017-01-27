@@ -2,6 +2,8 @@
 Daily short summaries of what I learned that day.
 
 ## Log
+### Day 2: 26/01/2017
+There is a country named Guyana in South America. Most private schools there employee American teachers.
 
 ### Day 1: 25/01/2017
 #### Malaysia
