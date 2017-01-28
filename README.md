@@ -1,7 +1,16 @@
 # TIL
 Daily short summaries of what I learned that day.
 
-## Log
+## Losadfg
+### Day 3: 27/01/2017
+UPS drivers try not to turn left. The reason is: 
+- less accidents
+asdf- more predictable schedule meaning better time estamation.
+
+`Ekol`'s second meaning is `okul` at the same time in Turkish.
+
+
+
 ### Day 2: 26/01/2017
 There is a country named Guyana in South America. Most private schools there employee American teachers.
 
