@@ -3,22 +3,18 @@ Daily short summaries of what I learned that day.
 
 ## Logs
 ### Day 3: 27/01/2017
-####1
 UPS drivers try not to turn left. The reason is: 
 - less accidents
 - more predictable schedule meaning better time estamation.
 
-####2
 `Ekol`'s second meaning is `okul` at the same time in Turkish.
 
-####3 What activity to do?
-Do something that interests you. Most of the time it'd be better to do it with people. If the person is interested in science go to a science museum with that person. If the person is interested in German culture travel to Germany with that person. Try finding mutual interests and do that activity.
-
-Mutual interest => more conversation about the activity => increase points in friendship
-Doing something interesting => More fun, knowledge sticks more
+#### What activity to do?
+Do something that interests you. Most of the time it'd be better to do it with people. If the person is interested in science go to a science museum with that person. If the person is interested in German culture travel to Germany with that person. Try finding mutual interests and do that activity.  
+Mutual interest => more conversation about the activity => increase points in friendship  
+Doing something interesting => More fun, knowledge sticks more  
 
 ### Day 2: 26/01/2017
-####1
 There is a country named Guyana in South America. Most private schools there employee American teachers.
 
 ### Day 1: 25/01/2017
@@ -30,7 +26,6 @@ After Communist Party in China the opposing party member mostly immigrated to Ta
 Do not call a Chinese Malaysian "Malay". It's like calling a black person white or vice-versa.
 
 #### Mandarin vs Cantonese
-
 Simplified Chinese created in 1949 based on Traditional Chinese.
 
 | Countries | Language  | Text  |
