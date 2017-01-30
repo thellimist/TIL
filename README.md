@@ -9,12 +9,12 @@ Daily short summaries of what I learned that day.
 4G -> Faster Internet  
 5G -> Ultra Fast Internet  
 
-5G has 5 compoenents which are new:
-1. Millimeter waves: Use shorter wave lengths which are not used by any mainstream devices.
-2. Small Cell: Since shorter wave lengths have problem passing through obstacals as a solution place lots of small cell stations which redirects the signal so it can pass through the object. 
-3. Massive MIMO: Make the base cell station stronger. This has a negative effect of signals gettings cause serious interference. 
-4. Beamforming: To fix MIMO instead of sending signals everywhere, it does some cool calculation to figure where the signal is coming from and only broadcast to that direction
-5. Full Duplex: Signals are like trains. If multiple signals use the same frequency (rail) they'd iterfere. To fix this problem new switches are being developed which would reroute the signals to different frequencies for a short period of time to avoid the interference.
+5G has 5 compoenents which are new:  
+1. Millimeter waves: Use shorter wave lengths which are not used by any mainstream devices.  
+2. Small Cell: Since shorter wave lengths have problem passing through obstacals as a solution place lots of small cell stations which redirects the signal so it can pass through the object.   
+3. Massive MIMO: Make the base cell station stronger. This has a negative effect of signals gettings cause serious interference.   
+4. Beamforming: To fix MIMO instead of sending signals everywhere, it does some cool calculation to figure where the signal is coming from and only broadcast to that direction.  
+5. Full Duplex: Signals are like trains. If multiple signals use the same frequency (rail) they'd iterfere. To fix this problem new switches are being developed which would reroute the signals to different frequencies for a short period of time to avoid the interference.  
 
 ### Day 4: 28/01/2017
 Made a boardgame with Prisoners dilemma mechanic included. %60 of the time everybody lost.
