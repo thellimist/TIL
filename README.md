@@ -2,6 +2,14 @@
 Daily short summaries of what I learned that day.
 
 ## Logs
+### Day 6: 30/01/2017
+Homer's Odyssey has 12000 lines and Qur'an has 6000 sentences. Both of them were memorized by people until they were written down. Homer's Odyssey was created ~800BC. 
+
+Halbach array is a special arrangement of permanent magnets that augments the magnetic field on one side of the array while cancelling the field to near zero on the other side. It is used in refrigerator magnets to industrial applcaitions.
+
+![](http://thecosmostba.weebly.com/uploads/3/7/1/3/37132753/920718199.jpg)
+
+
 ### Day 5: 29/01/2017
 1G -> Phone  
 2G -> Messaging (SMS)  
