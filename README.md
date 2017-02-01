@@ -3,6 +3,24 @@ Daily short summaries of what I learned that day.
 
 ## Logs
 ### Day 6: 30/01/2017
+#### Trimming Hair
+In Ancient Egypt, Middle East and Turkey women shaving public parts of a norm. In Ancient Greek woman also shaved their public seen hair as well as their pubic hairs. In Rome mostly the upper class had this trend. This trend usually stuck. Queen Victoria trimmed her eyebrows. In 1915 the first armless sleeves ad was up and woman having hair on their armpits regarded as not so feminin. This trend escalated in USA. Skirts, shorter skirts, mini skirts forced woman to shave their legs in USA. With the Bikini Ads woman started to shave their pubic hairs. This trend still continues. Brazillian wax was the next generation of full body hairless trend and currently this trend dominates young girls.
+
+#### Cool War Tactics
+- In WW1 the allies became used to the smell of chemical weapons and would put their gas masks on quickly. The Germans changed their tactics and would use nearly odorless vomit-inducing chemicals that would absorb quickly into the lungs first. Then, once soldiers were vomiting and couldn't keep their gas masks on - they would fire the main artillery barrage containing the lethal chemicals.
+
+- "How many mines does it take to make a minefield? One sign." The British pulled a dirty trick during the African campaign in WWII. At every well and oasis they could find they hung a sign that said "Danger! Poison!" In English and German. It was only when the Germans complained that poisoning wells was a warcrime that the British pointed out that yes, poisoning wells was a crime, but merely hanging signs was not. The water was perfectly drinkable.
+
+- In Iranian-Iraq war while the Iranian troops were on Marsh land Iraq send thousands of volts to the land frying all the troops
+
+- In WW2 almost all the bombs and sirens on it which made the opposite sides moral to decrease.
+
+- Napoleon's advance guards, had captured a bridge over the Danube at Vienna by falsely claiming that an armistice had been signed, and then rushing the bridge while the guards were distracted
+
+- Genghis Khan, in a large scale attack against the fortress at Volohai, after being unable to breach the walls demanded 1000 cats and 10,000 Chinese Swallows in exchange for lifting the siege. When the defenders sent out the animals Genghis took them and tied tufts of cotton to their tails and ignited them, at which point the animals rushed back to their homes within the city, igniting hundreds of small fires, while Genghis' army attacked again and took the fortress amidst the panic
+
+
+### Day 6: 30/01/2017
 Homer's Odyssey has 12000 lines and Qur'an has 6000 sentences. Both of them were memorized by people until they were written down. Homer's Odyssey was created ~800BC. 
 
 #### Halbach array
