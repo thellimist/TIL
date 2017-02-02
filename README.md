@@ -9,6 +9,8 @@ Daily short summaries of what I learned that day.
 
 After iron is etracted from dead blood cells the left over material billurubin can either go to kidneys and give the yellow color or go to the intestine and bacteries there could give the brown color to our pee/feces.
 
+TIL how to make origami owl. Wait? Does this belong here? Not sure w/e.
+
 ### Day 7: 1/02/2017
 Word Count: 
 - Japanese - 500,000
