@@ -11,6 +11,8 @@ After iron is etracted from dead blood cells the left over material billurubin c
 
 TIL how to make origami owl. Wait? Does this belong here? Not sure w/e.
 
+Pixar plays the same soundtrack over and over again in both happy and sad scenes. The soundtrack becomes their soundtrack in the viewers mind making them more emotionally effective. [source](https://www.youtube.com/watch?v=i8HePfa7WYs)
+
 ### Day 7: 1/02/2017
 Word Count: 
 - Japanese - 500,000
