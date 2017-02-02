@@ -7,6 +7,7 @@ Daily short summaries of what I learned that day.
 - The word Barbarian comes from ancient Greek. It means people who speak gibirish (not Greek, Latin). 
 - New Zealand comes from Zeeland (Sealand) which is a dutch territory. 
 
+After iron is etracted from dead blood cells the left over material billurubin can either go to kidneys and give the yellow color or go to the intestine and bacteries there could give the brown color to our pee/feces.
 
 ### Day 7: 1/02/2017
 Word Count: 
