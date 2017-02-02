@@ -2,6 +2,12 @@
 Daily short summaries of what I learned that day.
 
 ## Logs
+### Day 8: 2/02/2017
+- In Japanese, the country Japan is called Nihon
+- The word Barbarian comes from ancient Greek. It means people who speak gibirish (not Greek, Latin). 
+- New Zealand comes from Zeeland (Sealand) which is a dutch territory. 
+
+
 ### Day 7: 1/02/2017
 Word Count: 
 - Japanese - 500,000
