@@ -2,7 +2,19 @@
 Daily short summaries of what I learned that day.
 
 ## Logs
-### Day 6: 30/01/2017
+### Day 7: 2/01/2017
+Word Count: 
+Japanese - 500,000
+Korean   - 500,000
+Dutch    - 400,000
+Chinese  - 370,000
+Russian  - 200,000
+English  - 171,476
+Spanish  - 100,000
+
+Average native English speaker knows active vocabulary ~20,000 words and knows passive vocabulary ~40,000 words. Knowing 3000 words would have a coverage of 95%. This number is similar in Chinese.
+
+### Day 6: 31/01/2017
 #### Trimming Hair
 In Ancient Egypt, Middle East and Turkey women shaving public parts of a norm. In Ancient Greek woman also shaved their public seen hair as well as their pubic hairs. In Rome mostly the upper class had this trend. This trend usually stuck. Queen Victoria trimmed her eyebrows. In 1915 the first armless sleeves ad was up and woman having hair on their armpits regarded as not so feminin. This trend escalated in USA. Skirts, shorter skirts, mini skirts forced woman to shave their legs in USA. With the Bikini Ads woman started to shave their pubic hairs. This trend still continues. Brazillian wax was the next generation of full body hairless trend and currently this trend dominates young girls.
 
