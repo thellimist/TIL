@@ -4,13 +4,13 @@ Daily short summaries of what I learned that day.
 ## Logs
 ### Day 7: 1/02/2017
 Word Count: 
-Japanese - 500,000
-Korean   - 500,000
-Dutch    - 400,000
-Chinese  - 370,000
-Russian  - 200,000
-English  - 171,476
-Spanish  - 100,000
+- Japanese - 500,000
+- Korean   - 500,000
+- Dutch    - 400,000
+- Chinese  - 370,000
+- Russian  - 200,000
+- English  - 171,476
+- Spanish  - 100,000
 
 Average native English speaker knows active vocabulary ~20,000 words and knows passive vocabulary ~40,000 words. Knowing 3000 words would have a coverage of 95%. This number is similar in Chinese.
 
