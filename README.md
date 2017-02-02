@@ -2,7 +2,7 @@
 Daily short summaries of what I learned that day.
 
 ## Logs
-### Day 7: 2/01/2017
+### Day 7: 1/02/2017
 Word Count: 
 Japanese - 500,000
 Korean   - 500,000
