@@ -2,6 +2,9 @@
 Daily short summaries of what I learned that day.
 
 ## Logs
+### Day 10: 4/02/2017
+In cold weather if someone has nasal discharge, it may be because of the cold water molecules getting in the nostrils and getting out as water. It may not be because of being sick.
+
 ### Day 9: 3/02/2017
 TIL What is puff pastry. I also learned how to cook pastry with spanich. Tip: don't use baking soda with it. It's useless.
 
