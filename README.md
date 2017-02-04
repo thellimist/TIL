@@ -2,6 +2,9 @@
 Daily short summaries of what I learned that day.
 
 ## Logs
+### Day 9: 3/02/2017
+TIL What is puff pastry. I also learned how to cook pastry with spanich. Tip: don't use baking soda with it. It's useless.
+
 ### Day 8: 2/02/2017
 - In Japanese, the country Japan is called Nihon
 - The word Barbarian comes from ancient Greek. It means people who speak gibirish (not Greek, Latin). 
