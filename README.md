@@ -5,6 +5,16 @@ Daily short summaries of what I learned that day.
 ### Day 10: 4/02/2017
 In cold weather if someone has nasal discharge, it may be because of the cold water molecules getting in the nostrils and getting out as water. It may not be because of being sick.
 
+Random infos:
+- There is not car road from North America to South America.
+- Australia has a 5500km long fence called Dingo Fence. Currently it's purposes is to keep wild dogs out of South East Australia.
+- San José is the capital of Costa Rica. There is San Jose in California which is the same but written differently (é).
+- In Costa Rica allows drivers to drive only 6 days a week. The last digit of the plate indicates which day the car can not be used.
+- Somalia got their first ATM in 2014.
+- Afghanistan is GMT +4:30, border to it China is GMT +8. 3:30 hour difference crossing the border.
+- Crypus has two seperate UK land, Greece and Turkey parts.
+
+
 ### Day 9: 3/02/2017
 TIL What is puff pastry. I also learned how to cook pastry with spanich. Tip: don't use baking soda with it. It's useless.
 
