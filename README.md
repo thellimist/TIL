@@ -2,6 +2,9 @@
 Daily short summaries of what I learned that day.
 
 ## Logs
+### Day 12: 6/02/2017
+Homo Sapiens started walking on two foot because in Savannah standing up meant less heat absorbed. This way sapiens could hunt/harvest where as other predators had to be in the shadows to stay cool.
+
 ### Day 11: 5/02/2017
 Yugoslavia means "Land of the Southern Slavs".
 
