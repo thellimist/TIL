@@ -2,6 +2,15 @@
 Daily short summaries of what I learned that day.
 
 ## Logs
+### Day 11: 5/02/2017
+Yugoslavia means "Land of the Southern Slavs".
+
+- Salary derives fromt the latin word salarium which means salt-money. Salt used as a currency at some time periods.
+- Buck comes from dear skin (buck skin) being used as a currency.
+- Money comes from Moneta which is a Roman mint where moneys where made.
+
+There was an experiment with monkeys where monkeys could trade 2 rocks for a banana, 1 rock for a grape. Basically rock was a currency for them. Some male monkeys gave rocks to female monkeys to have sex. Then the female monkey would buy food with the money she earned. Animal Prostitution.
+
 ### Day 10: 4/02/2017
 In cold weather if someone has nasal discharge, it may be because of the cold water molecules getting in the nostrils and getting out as water. It may not be because of being sick.
 
