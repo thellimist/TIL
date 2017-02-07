@@ -7,6 +7,8 @@ Homo Sapiens started walking on two foot because in Savannah standing up meant l
 
 McDonalds main business is not food, it is real estate.
 
+In China woman who are not married until 27 are called "leftover" woman.
+
 ### Day 11: 5/02/2017
 Yugoslavia means "Land of the Southern Slavs".
 
