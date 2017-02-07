@@ -5,6 +5,8 @@ Daily short summaries of what I learned that day.
 ### Day 12: 6/02/2017
 Homo Sapiens started walking on two foot because in Savannah standing up meant less heat absorbed. This way sapiens could hunt/harvest where as other predators had to be in the shadows to stay cool.
 
+McDonalds main business is not food, it is real estate.
+
 ### Day 11: 5/02/2017
 Yugoslavia means "Land of the Southern Slavs".
 
