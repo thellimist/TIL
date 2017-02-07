@@ -6,6 +6,7 @@ Daily short summaries of what I learned that day.
 - Making vacination, one must grow a culture then heat it up.
 - Making penicillin, just use the mold growing on top of food. It's the green ones on bread, cheese, oranges etc.
 - The length of pendulum that takes one second to swing end-to-end is called a meter (simple way to measure it). It takes the same amount of time regardless how high you drop it.
+- Zebra and donkey or horse can mate and weird creatures appear afterwards.
 
 ### Day 12: 6/02/2017
 Homo Sapiens started walking on two foot because in Savannah standing up meant less heat absorbed. This way sapiens could hunt/harvest where as other predators had to be in the shadows to stay cool.
