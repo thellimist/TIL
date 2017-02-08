@@ -2,7 +2,7 @@
 Daily short summaries of what I learned that day.
 
 ## Logs
-### Day 32: 7/02/2017
+### Day 13: 7/02/2017
 - To make vacination, one must grow a culture then heat it up. (killing the virus but the protein structure remaining the same)
 - To make penicillin, just use the mold growing on top of food. It's the green ones on bread, cheese, oranges etc.
 - The length of pendulum that takes one second to swing end-to-end is called a meter (simple way to measure it). It takes the same amount of time regardless how high you drop it.
@@ -13,14 +13,14 @@ Cities were really filty even in early 19th century. In 14th century London;
 - butchers were breading/cutting animals in streets (amazing amount of filth produced). Goverment only allowed butchers to work in 3 open squares instead of the whole city. Dodgy butchers became more populer, city banned selling meat after dark.   
 After plague losing half the population, city introced more fines (20,000£) for waste dumping, increased the amount of waste collectors. They still couldn't manage to make the city clean...  
 
-### Day 12: 6/02/2017 - Week 2
+### Day 12: 6/02/2017
 Homo Sapiens started walking on two foot because in Savannah standing up meant less heat absorbed. This way sapiens could hunt/harvest at noon time where as other predators had to be in the shadows to stay cool.
 
 McDonalds main business is not food, it is real estate.
 
 In China woman who are not married until 27 are called "leftover" woman.
 
-### Day 11: 5/02/2017
+### Day 11: 5/02/2017 - Week 2
 
 - Yugoslavia means "Land of the Southern Slavs".
 - Salary derives fromt the latin word salarium which means salt-money. Salt used as a currency at some time periods.
