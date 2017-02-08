@@ -2,7 +2,7 @@
 Daily short summaries of what I learned that day.
 
 ## Logs
-### Day 12: 7/02/2017
+### Day 32: 7/02/2017
 - To make vacination, one must grow a culture then heat it up.
 - To make penicillin, just use the mold growing on top of food. It's the green ones on bread, cheese, oranges etc.
 - The length of pendulum that takes one second to swing end-to-end is called a meter (simple way to measure it). It takes the same amount of time regardless how high you drop it.
