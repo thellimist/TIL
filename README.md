@@ -33,7 +33,7 @@ There was an experiment with monkeys where monkeys could trade 2 rocks for a ban
 In cold weather if someone has nasal discharge, it may be because of the cold water molecules getting in the nostrils and getting out as water. It may not be because of being sick.
 
 Random infos:
-- There is not car road from North America to South America.
+- There are no car roads from North America to South America.
 - Australia has a 5500km long fence called Dingo Fence. Currently it's purposes is to keep wild dogs out of South East Australia.
 - San José is the capital of Costa Rica. There is San Jose in California which is the same but written differently (é).
 - In Costa Rica allows drivers to drive only 6 days a week. The last digit of the plate indicates which day the car can not be used.
@@ -43,7 +43,7 @@ Random infos:
 
 
 ### Day 9: 3/02/2017
-TIL What is puff pastry. I also learned how to cook pastry with spanich. Tip: don't use baking soda with it. It's useless.
+TIL What is [puff pastry](https://en.wikipedia.org/wiki/Puff_pastry). I also learned how to cook pastry with spanich. Tip: don't use baking soda with it. It's useless.
 
 ### Day 8: 2/02/2017
 - In Japanese, the country Japan is called Nihon
