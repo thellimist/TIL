@@ -50,7 +50,7 @@ TIL What is puff pastry. I also learned how to cook pastry with spanich. Tip: do
 - The word Barbarian comes from ancient Greek. It means people who speak gibirish (not Greek nor Latin). 
 - New Zealand comes from Zeeland (Sealand) which is a dutch territory. 
 
-After iron is etracted from dead blood cells the left over material billurubin can either go to kidneys and give the yellow color or go to the intestine and bacteries there could give the brown color to our pee/feces.
+After iron is drawn from dead blood cells the left over material billurubin can either go to kidneys and give the yellow color or go to the intestine and bacteries there could give the brown color to our pee/feces.
 
 TIL how to make origami owl. Wait? Does this belong here? Not sure w/e.
 
