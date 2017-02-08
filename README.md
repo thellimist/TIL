@@ -8,6 +8,11 @@ Daily short summaries of what I learned that day.
 - The length of pendulum that takes one second to swing end-to-end is called a meter (simple way to measure it). It takes the same amount of time regardless how high you drop it.
 - Zebra and donkey or horse can mate and weird creatures appear afterwards.
 
+Cities were really filty even in early 19th century. In 14th century London;
+- people were throwing their poo in the streets. City started to fine them. A new job; waste collectors were introduced. People started to throw poo and waste to Thames river. That was also fined. People did it anyways.  
+- butchers were breading/cutting animals in streets (amazing amount of filth produced). Goverment only allowed butchers to work in 3 open squares instead of the whole city. Dodgy butchers became more populer, city banned selling meat after dark.   
+After plague losing half the population, city introced more fines (20,000£) for waste dumping, increased the amount of waste collectors. They still couldn't manage to make the city clean...  
+
 ### Day 12: 6/02/2017
 Homo Sapiens started walking on two foot because in Savannah standing up meant less heat absorbed. This way sapiens could hunt/harvest where as other predators had to be in the shadows to stay cool.
 
