@@ -2,6 +2,9 @@
 Daily short summaries of what I learned that day.
 
 ## Logs
+### Day 14: 8/02/2017
+Tagalog is Filipino. (There is a bit difference but ¯\_(ツ)_/¯)
+
 ### Day 13: 7/02/2017
 - To make vacination, one must grow a culture then heat it up. (killing the virus but the protein structure remaining the same)
 - To make penicillin, just use the mold growing on top of food. It's the green ones on bread, cheese, oranges etc.
