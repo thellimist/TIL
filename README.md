@@ -5,6 +5,8 @@ Daily short summaries of what I learned that day.
 ### Day 15: 9/02/2017
 There is water on Moon. Mostly from asteriods and some guessed from Earth since Moon was split from Earth long time ago.
 
+Scandanavia are Norway, Sweden, Denmark. Northdic countries are Norway, Sweden, Denmark, Finland and Iceland
+
 In oil economic crisis a German company TRUMPF did not lay workers. Instead they decreased the amount of time each worker had to work. Usually 3 days per week. That way they did not lose the talent and handled the crisis good enough.
 
 ### Day 14: 8/02/2017
