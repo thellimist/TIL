@@ -10,6 +10,8 @@ How ancient civilizations [sound](https://www.facebook.com/arkeolojidunyasiii/vi
 - Gokturks sounds like Turks today. 
 - Hittites sounds like they are talking from their mouths. It resembles more like a European language.
 
+Scrubs is the uniform doctors wear. The name of the tv series comes from there.
+
 
 ### Day 15: 9/02/2017
 There is water on Moon. Mostly from asteriods and some guessed from Earth since Moon was split from Earth long time ago.
