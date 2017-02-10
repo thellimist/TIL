@@ -2,6 +2,15 @@
 Daily short summaries of what I learned that day.
 
 ## Logs
+### Day 16: 10/02/2017
+How ancient civilizations [sound](https://www.facebook.com/arkeolojidunyasiii/videos/1658383744188552/) like:  
+(This is just an estimaton of how they sound. It probably is not how they truly speak)
+- Ancient Egypt, Asyyrian has lots of unique Semetic sounds like 'H' and sounds from throat.
+- Sumerian sounds like Arabic with harsh sounds but without the sounds from throat.
+- Gokturk sounds like Turks today. 
+- Hitties sounds like they are talking from their mouths. It resembles more like a European language.
+
+
 ### Day 15: 9/02/2017
 There is water on Moon. Mostly from asteriods and some guessed from Earth since Moon was split from Earth long time ago.
 
