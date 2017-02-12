@@ -2,6 +2,14 @@
 Daily short summaries of what I learned that day.
 
 ## Logs
+### Day 18: 12/02/2017
+Pasta originally comes from China 1100BC not Italians.
+
+### Day 17: 11/02/2017
+House of Habsburg was the leader house of Holy Roman Empire. Later on they've became the leader of Austria-Hungary Empire  
+
+Vegitarians should take B12 additionally since they can not have enough naturally.
+
 ### Day 16: 10/02/2017
 How ancient civilizations [sound](https://www.facebook.com/arkeolojidunyasiii/videos/1658383744188552/) like:  
 (This is just an estimaton of how they sound. It probably is not how they truly speak)
