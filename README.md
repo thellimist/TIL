@@ -2,7 +2,10 @@
 Daily short summaries of what I learned that day.
 
 ## Logs
-### Day 18: 12/02/2017
+### Day 19: 13/02/2017
+Modern plastic surgery techniques were developed initialy in WW1. So many soldiers had disfigured faces and limbs so a lot of people tried to fix it.
+
+### Day 18: 12/02/2017 - Week 3
 #### Virus
 There are 10^31 viruses in the oceans alones. There are viruses which can be beneficial for humans killing unwanted bacterias. What makes virus interesting is they don't have any metabolizm meaning they don't produce energy. They mimic other stuff to fool cells thinking it's something they need. Afterwards mostly by chance they find their way to the nucleus of the cell. They trick the nucleus to get in the pore. They trick the cell to think the genetic code of the virus belongs to a specific part of the organisms genetic code. The cell splices their genetic code and add the virus genetic code. Afterwards the cell is highjacked and the virus does whatever it is programmed for. Mostly the cell produces more viruses thinking it needs it. At some point the newly made viruses should leave the cell but since the viruses are most of the time too big to pass the membrane, the virus hacks the cell to cut the membrane resulting all of the viruses free and killing the cell. Cell dying is merely a side effect. Viruses can make the host to vomit, diarrhea etc. eventually killing it. Evolutionary killing the host does not benefit the virus but it has other benefits like faster reproduction etc. The process can differ in different types of viruses. This is a general explanation and an example of how it works.
 
