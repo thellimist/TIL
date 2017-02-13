@@ -3,12 +3,20 @@ Daily short summaries of what I learned that day.
 
 ## Logs
 ### Day 18: 12/02/2017
-Pasta originally comes from China 1100BC not Italians.
+#### Virus
+There are 10^31 viruses in the oceans alones. There are viruses which can be beneficial for humans killing unwanted bacterias. What makes virus interesting is they don't have any metabolizm meaning they don't produce energy. They mimic other stuff to fool cells thinking it's something they need. Afterwards mostly by chance they find their way to the nucleus of the cell. They trick the nucleus to get in the pore. They trick the cell to think the genetic code of the virus belongs to a specific part of the organisms genetic code. The cell splices their genetic code and add the virus genetic code. Afterwards the cell is highjacked and the virus does whatever it is programmed for. Mostly the cell produces more viruses thinking it needs it. At some point the newly made viruses should leave the cell but since the viruses are most of the time too big to pass the membrane, the virus hacks the cell to cut the membrane resulting all of the viruses free and killing the cell. Cell dying is merely a side effect. Viruses can make the host to vomit, diarrhea etc. eventually killing it. Evolutionary killing the host does not benefit the virus but it has other benefits like faster reproduction etc. The process can differ in different types of viruses. This is a general explanation and an example of how it works.
+
+Everything a virus does is by chance. There are enormous numbers of viruses and most of them are created faulty and fail. The whole concept of viruses is based on sheer number. 
+
+Viruses can have latency meaning they can hide, doing nothing for years. Once they find their target they can infect. In cases like HIV they hide in cell, actually it is not known where they hide but basically somewhere where immune system can not find it. That is one of the reasons why HIV is so hard to cure. Currently there are medications to block HIV but not destory it.
+
+- Viruses can have single-strand DNA, single-strand RNA, double-strand DNA, double-strand RNA.
+- To create a vaccination of a virus, the usualy method is heating up until some proteins deform but the genetic code does not or vice-versa. This way we can disable the virus some sense and allow the immune system to recognize it.
 
 ### Day 17: 11/02/2017
-House of Habsburg was the leader house of Holy Roman Empire. Later on they've became the leader of Austria-Hungary Empire  
-
-Vegitarians should take B12 additionally since they can not have enough naturally.
+- House of Habsburg was the leader house of Holy Roman Empire. Later on they've became the leader of Austria-Hungary Empire  
+- Vegitarians should take B12 additionally since they can not have enough naturally.
+- Pasta originally comes from China 1100BC not Italians.
 
 ### Day 16: 10/02/2017
 How ancient civilizations [sound](https://www.facebook.com/arkeolojidunyasiii/videos/1658383744188552/) like:  
