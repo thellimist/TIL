@@ -10,8 +10,9 @@ Everything a virus does is by chance. There are enormous numbers of viruses and 
 
 Viruses can have latency meaning they can hide, doing nothing for years. Once they find their target they can infect. In cases like HIV they hide in cell, actually it is not known where they hide but basically somewhere where immune system can not find it. That is one of the reasons why HIV is so hard to cure. Currently there are medications to block HIV but not destory it.
 
-- Viruses can have single-strand DNA, single-strand RNA, double-strand DNA, double-strand RNA.
-- To create a vaccination of a virus, the usualy method is heating up until some proteins deform but the genetic code does not or vice-versa. This way we can disable the virus some sense and allow the immune system to recognize it.
+Viruses can have single-strand DNA, single-strand RNA, double-strand DNA, double-strand RNA. 
+
+To create a vaccination of a virus, the usualy method is heating up until some proteins deform but the genetic code does not or vice-versa. This way we can disable the virus some sense and allow the immune system to recognize it.
 
 ### Day 17: 11/02/2017
 - House of Habsburg was the leader house of Holy Roman Empire. Later on they've became the leader of Austria-Hungary Empire  
