@@ -2,6 +2,10 @@
 Daily short summaries of what I learned that day.
 
 ## Logs
+### Day 20: 14/02/2017
+- Empire State Building was built in 1 year
+- Oil lamps produce smoke. In one of Mimar Sinan's mosques he did a air ventilation system where the smoke was filter in to a storage an that it was used to produce ink.
+
 ### Day 19: 13/02/2017
 Modern plastic surgery techniques were developed initialy in WW1. So many soldiers had disfigured faces and limbs so a lot of people tried to fix it.
 
