@@ -2,6 +2,12 @@
 Daily short summaries of what I learned that day.
 
 ## Logs
+### Day 22: 16/02/2017
+Shangai was a small town in 18th century. After first Opium War, China opened Shangai port to forigein traders enabling the city to flourish. Hong Kong is similar but the island was given to British directly. Some say the age of modern China begin with the first Opium War.
+
+### Day 21: 15/02/2017
+Master Plan is an architectural term meaning, modernizing an old district.
+
 ### Day 20: 14/02/2017
 - Empire State Building was built in 1 year
 - Oil lamps produce smoke. In one of Mimar Sinan's mosques he did a air ventilation system where the smoke was filter in to a storage an that it was used to produce ink.
