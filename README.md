@@ -3,7 +3,9 @@ Daily short summaries of what I learned that day.
 
 ## Logs
 ### Day 22: 16/02/2017
-Shangai was a small town in 18th century. After first Opium War, China opened Shangai port to forigein traders enabling the city to flourish. Hong Kong is similar but the island was given to British directly. Some say the age of modern China begin with the first Opium War.
+China was using Silver and Britain was using Gold as currency. Since Britain didn't have enough silver it had to import silver from other countries to do trade with China. Even that wasn't enough so Britain started the selling Opium to Chinese people get getting silver to trade it for Tea.
+
+Shangai was a small town in 18th century. After first Opium War, China opened Shangai port to forigein traders enabling the city to flourish. Hong Kong is similar but the island was given to British directly. Some say the age of modern China begin with the first Opium War. 
 
 ### Day 21: 15/02/2017
 Master Plan is an architectural term meaning, modernizing an old district.
