@@ -7,6 +7,8 @@ China was using Silver and Britain was using Gold as currency. Since Britain did
 
 Shangai was a small town in 18th century. After first Opium War, China opened Shangai port to forigein traders enabling the city to flourish. Hong Kong is similar but the island was given to British directly. Some say the age of modern China begin with the first Opium War. 
 
+There is a corrolation between dark skin and poverty. If an individual is poor they're more likely to work in labour jobs. Most labour jobs require to work under the sun whole day. More sun exposure, darker the skin. Additionally, socio economic statuses of an individual is usually passed to their children meaning poor familiies children will most likely continue to be poor. A few generation of labour work under the sun would cause the individual to be slightly more darker than the rest of the population. 
+
 ### Day 21: 15/02/2017
 Master Plan is an architectural term meaning, modernizing an old district.
 
