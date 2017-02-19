@@ -2,6 +2,12 @@
 Daily short summaries of what I learned that day.
 
 ## Logs
+### Day 24: 18/02/2017
+Don't rinse with water straight after toothbrushing
+
+### Day 23: 17/02/2017
+Soho is an entertainment district in London. Places like New York, Hong Kong, Beijing also has the name Soho for their entertainment districts.
+
 ### Day 22: 16/02/2017
 China was using Silver and Britain was using Gold as currency. Since Britain didn't have enough silver it had to import silver from other countries to do trade with China. Even that wasn't enough so Britain started the selling Opium to Chinese people get getting silver to trade it for Tea.
 
