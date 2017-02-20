@@ -3,6 +3,8 @@ Daily short summaries of what I learned that day.
 
 ## Logs
 ### Day 25: 19/02/2017
+Facade: the face of a building, especially the principal front that looks onto a street or open space
+
 #### Egyptian Hieroglyphs
 From Egyptian hieroglyphs comes Phoenician alphabet. From Phoenician alphabet comes Paleo-Hebrew alphabet, Aramaic alphabet, Greek alphabet. Phoenicians were Semitic people unlike Egyptian's so the language is totally seperate. Phoenician were conquered by Ancient Egyptians were a long time so there were a lot of cultural exchanges between two nations.
 
