@@ -2,10 +2,13 @@
 Daily short summaries of what I learned that day.
 
 ## Logs
+### Day 27: 21/02/2017
+During the Ottoman Empire, homosexuality was decriminalized in 1858 as part of wider reforms during the Tanzimat.
+
 ### Day 26: 20/02/2017
 Lamarckian evolution is when giraffes with shot neck finish the food on low ground and try to eat the high ground food. They'll eventually lengthen their necks and this passes to the new borns. Multiple scientists tried to experiment Lamarckian evolution but all failed.
 
-### Day 25: 19/02/2017
+### Day 25: 19/02/2017 - Week 4
 Facade: the face of a building, especially the principal front that looks onto a street or open space
 
 Fosbury flop, the technique used in high jump sport allows the jumper to maintain their center of mass below their body allowing to jump even higher.
