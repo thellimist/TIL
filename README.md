@@ -2,6 +2,18 @@
 Daily short summaries of what I learned that day.
 
 ## Logs
+### Day 29: 23/02/2017
+Never is no sound in space.
+
+### Day 28: 22/02/2017
+Rome declared war with a reason justifying their attack. The justification is always something defensive even though it is not true most of the times. 
+
+Malaysia has the 5th strongest passport. 
+
+Turkish passport needs visa to go to Turkmenistan and Uzbekistan while those two don't need visa to go to Turkey.
+
+Armada means a large group of warships
+
 ### Day 27: 21/02/2017
 During the Ottoman Empire, homosexuality was decriminalized in 1858 as part of wider reforms during the Tanzimat.
 
