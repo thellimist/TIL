@@ -2,6 +2,11 @@
 Daily short summaries of what I learned that day.
 
 ## Logs
+### Day 34: 28/02/2017
+Commercial planes do not pass 0.8 mach speed because the drag is to high between 0.8 mach and 1.2 mach. Supersonic jets prefer to fly faster than 1.2 mach since the drag is lower.
+
+Water is used in rice fields to prevent weeds. Rice doesn't actually need that much water, but since it can thrive in such conditions, whereas weeds cannot, it's a natural protection against them.
+
 ### Day 33: 27/02/2017
 Practicing physical activities do not develop muscle memory. It increases the coverage of Myelin on Norons which makes the speed of information travel faster.
 
