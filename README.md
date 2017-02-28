@@ -9,16 +9,15 @@ Practicing physical activities do not develop muscle memory. It increases the co
 Books are like TV shows. If it's boring stop readng a pick another book
 
 ### Day 31: 25/02/2017
-Nothing worth writing here
 
 ### Day 30: 24/02/2017
-Average male height in Asia: 162cm
-Average female height in Asia: 152cm
-Average male height in Europe: 177cm
-Average female height in Europe: 163cm
+Average male height in Asia: 162cm  
+Average female height in Asia: 152cm  
+Average male height in Europe: 177cm  
+Average female height in Europe: 163cm  
 
 ### Day 29: 23/02/2017
-Never is no sound in space.
+There is no sound in space.
 
 ## Month 1
 ### Day 28: 22/02/2017 - Week 4
@@ -31,7 +30,7 @@ Turkish passport needs visa to go to Turkmenistan and Uzbekistan while those two
 Armada means a large group of warships
 
 ### Day 27: 21/02/2017
-During the Ottoman Empire, homosexuality was decriminalized in 1858 as part of wider reforms during the Tanzimat.
+In Ottoman Empire, homosexuality was decriminalized in 1858 as part of wider reforms during the Tanzimat.
 
 ### Day 26: 20/02/2017
 Lamarckian evolution is when giraffes with shot neck finish the food on low ground and try to eat the high ground food. They'll eventually lengthen their necks and this passes to the new borns. Multiple scientists tried to experiment Lamarckian evolution but all failed.
@@ -39,10 +38,13 @@ Lamarckian evolution is when giraffes with shot neck finish the food on low grou
 ### Day 25: 19/02/2017
 Facade: the face of a building, especially the principal front that looks onto a street or open space
 
-Fosbury flop, the technique used in high jump sport allows the jumper to maintain their center of mass below their body allowing to jump even higher.
+~~Fosbury flop, the technique used in high jump sport allows the jumper to maintain their center of mass below their body allowing to jump even higher.~~
 
 #### Egyptian Hieroglyphs
-From Egyptian hieroglyphs comes Phoenician alphabet. From Phoenician alphabet comes Paleo-Hebrew alphabet, Aramaic alphabet, Greek alphabet. Phoenicians were Semitic people unlike Egyptian's so the language is totally seperate. Phoenician were conquered by Ancient Egyptians were a long time so there were a lot of cultural exchanges between two nations.
+From Egyptian hieroglyphs comes Phoenician alphabet. From Phoenician alphabet comes;  
+Paleo-Hebrew alphabet, Aramaic alphabet, Greek alphabet
+
+Phoenicians were Semitic people unlike Egyptian's so the language is totally seperate. Phoenician were conquered by Ancient Egyptians for a long time so there were a lot of cultural exchanges between two nations.
 
 Nobody could decipher Egyptian hieroglyphs until at 1800 French found the Rosetta Stone which was actually a translation of three language hieroglyphic, demotic, and Greek. It was made in Ptolemaic Kingdom while Egypt was still using Ancient Egyptian and writing hieroglyphs. Afterwards peoples stopped using it. The language and the writing system was forgotton by 400AD.
 
@@ -53,11 +55,11 @@ Don't rinse with water straight after toothbrushing
 Soho is an entertainment district in London. Places like New York, Hong Kong, Beijing also has the name Soho for their entertainment districts.
 
 ### Day 22: 16/02/2017
-China was using Silver and Britain was using Gold as currency. Since Britain didn't have enough silver it had to import silver from other countries to do trade with China. Even that wasn't enough so Britain started the selling Opium to Chinese people get getting silver to trade it for Tea.
+China was using Silver and Britain was using Gold as currency. Since Britain didn't have enough silver it had to import silver from other countries to do trade with China. Even that wasn't enough so Britain started the selling Opium to Chinese people getting silver to trade it for Tea.
 
 Shangai was a small town in 18th century. After first Opium War, China opened Shangai port to forigein traders enabling the city to flourish. Hong Kong is similar but the island was given to British directly. Some say the age of modern China begin with the first Opium War. 
 
-There is a corrolation between dark skin and poverty. If an individual is poor they're more likely to work in labour jobs. Most labour jobs require to work under the sun whole day. More sun exposure, darker the skin. Additionally, socio economic statuses of an individual is usually passed to their children meaning poor familiies children will most likely continue to be poor. A few generation of labour work under the sun would cause the individual to be slightly more darker than the rest of the population. 
+There is a corrolation between dark skin and poverty. If an individual is poor they're more likely to work in labour jobs. Most labour jobs require to work under the sun whole day. More sun exposure, darker the skin. Additionally, socio economic statuses of an individual is usually passed to their children meaning poor familiies children will most likely continue to be poor.
 
 ### Day 21: 15/02/2017 - Week 3
 Master Plan is an architectural term meaning, modernizing an old district.
@@ -71,11 +73,11 @@ Modern plastic surgery techniques were developed initialy in WW1. So many soldie
 
 ### Day 18: 12/02/2017
 #### Virus
-There are 10^31 viruses in the oceans alones. There are viruses which can be beneficial for humans killing unwanted bacterias. What makes virus interesting is they don't have any metabolizm meaning they don't produce energy. They mimic other stuff to fool cells thinking it's something they need. Afterwards mostly by chance they find their way to the nucleus of the cell. They trick the nucleus to get in the pore. They trick the cell to think the genetic code of the virus belongs to a specific part of the organisms genetic code. The cell splices their genetic code and add the virus genetic code. Afterwards the cell is highjacked and the virus does whatever it is programmed for. Mostly the cell produces more viruses thinking it needs it. At some point the newly made viruses should leave the cell but since the viruses are most of the time too big to pass the membrane, the virus hacks the cell to cut the membrane resulting all of the viruses free and killing the cell. Cell dying is merely a side effect. Viruses can make the host to vomit, diarrhea etc. eventually killing it. Evolutionary killing the host does not benefit the virus but it has other benefits like faster reproduction etc. The process can differ in different types of viruses. This is a general explanation and an example of how it works.
+There are 10^31 viruses in the oceans alone. There are viruses which can be beneficial for humans killing unwanted bacterias. What makes virus interesting is they don't have any metabolizm meaning they don't produce energy. They mimic other stuff to fool cells thinking it's something they need. Afterwards mostly by chance they find their way to the nucleus of the cell. They trick the nucleus to get through the pore. They trick the cell to think the genetic code of the virus belongs to a specific part of the organisms genetic code. The cell splices their genetic code and add the virus genetic code. Afterwards the cell is highjacked and the virus does whatever it is programmed for. Mostly the cell produces more viruses thinking it needs it. At some point the newly made viruses should leave the cell but since the viruses are most of the time too big to pass the membrane, the virus hacks the cell to cut the membrane resulting all of the viruses free and killing the cell. Cell dying is merely a side effect. Viruses can make the host to vomit, diarrhea etc. eventually killing it. Evolutionary killing the host does not benefit the virus but it has other benefits like faster reproduction etc. The process can differ in different types of viruses. This is a general explanation and an example of how it works.
 
 Everything a virus does is by chance. There are enormous numbers of viruses and most of them are created faulty and fail. The whole concept of viruses is based on sheer number. 
 
-Viruses can have latency meaning they can hide, doing nothing for years. Once they find their target they can infect. In cases like HIV they hide in cell, actually it is not known where they hide but basically somewhere where immune system can not find it. That is one of the reasons why HIV is so hard to cure. Currently there are medications to block HIV but not destory it.
+Viruses can have latency meaning they can hide, doing nothing for years. Once they find their target they can infect. In cases like HIV they hide in cell, actually it is not known where they hide but basically somewhere where immune system can not find. That is one of the reasons why HIV is so hard to cure. Currently there are medications to block HIV but not destory it.
 
 Viruses can have single-strand DNA, single-strand RNA, double-strand DNA, double-strand RNA. 
 
@@ -83,7 +85,7 @@ To create a vaccination of a virus, the usualy method is heating up until some p
 
 ### Day 17: 11/02/2017
 - House of Habsburg was the leader house of Holy Roman Empire. Later on they've became the leader of Austria-Hungary Empire  
-- Vegitarians should take B12 additionally since they can not have enough naturally.
+- Vegetarians should take B12 additionally since they can not have enough naturally.
 - Pasta originally comes from China 1100BC not Italians.
 
 ### Day 16: 10/02/2017
@@ -108,14 +110,14 @@ In oil economic crisis a German company TRUMPF did not lay workers. Instead they
 Tagalog is Filipino. (There is a bit difference but ¯\_(ツ)_/¯)
 
 ### Day 13: 7/02/2017
-- To make vacination, one must grow a culture then heat it up. (killing the virus but the protein structure remaining the same)
-- To make penicillin, just use the mold growing on top of food. It's the green ones on bread, cheese, oranges etc.
+- To make vacination, one must grow a culture then heat it up. (killing the virus but the protein structure or genetic material remaining the same)
+- To make penicillin, use the mold growing on top of food. It's the green ones on bread, cheese, oranges etc. Other steps are complicated :/
 - The length of pendulum that takes one second to swing end-to-end is called a meter (simple way to measure it). It takes the same amount of time regardless how high you drop it.
 - Zebra can mate with donkey or horse. Weird creatures appear afterwards.
 
 Cities were really filty even in early 19th century. In 14th century London;
 - people were throwing their poo in the streets. City started to fine them. A new job; waste collectors were introduced. People started to throw poo and waste to Thames river. That was also fined. People did it anyways.  
-- butchers were breading/cutting animals in streets (amazing amount of filth produced). Goverment only allowed butchers to work in 3 open squares instead of the whole city. Dodgy butchers became more populer, city banned selling meat after dark.   
+- butchers were breading/cutting animals in streets (amazing amount of filth produced). Goverment only allowed butchers to work in 3 open squares instead of the whole city. Dodgy butchers became more popular, city banned selling meat after dark.   
 After plague losing half the population, city introced more fines (20,000£) for waste dumping, increased the amount of waste collectors. They still couldn't manage to make the city clean...  
 
 ### Day 12: 6/02/2017
@@ -143,7 +145,7 @@ Random infos:
 - San José is the capital of Costa Rica. There is San Jose in California which is the same but written differently (é).
 - Costa Rica allows drivers to drive only 6 days a week. The last digit of the plate indicates which day the car can not be used.
 - Afghanistan is GMT +4:30, border to it China is GMT +8. 3:30 hour difference crossing the border.
-- Crypus has two seperate UK land, single Greece and Turkey parts.
+- ~~Crypus has two seperate UK land, single Greece and Turkey parts.~~
 
 
 ### Day 9: 3/02/2017
@@ -174,16 +176,16 @@ Average native English speaker knows active vocabulary ~20,000 words and knows p
 
 ### Day 6: 31/01/2017
 #### Trimming Hair
-In Ancient Egypt, Middle East and Turkey women shaving public parts of a norm. In Ancient Greek woman also shaved their public seen hair as well as their pubic hairs. In Rome mostly the upper class had this trend. This trend usually stuck. Queen Victoria trimmed her eyebrows. In 1915 the first armless sleeves ad was up and woman having hair on their armpits regarded as not so feminin. This trend escalated in USA. Skirts, shorter skirts, mini skirts forced woman to shave their legs in USA. With the Bikini Ads woman started to shave their pubic hairs. This trend still continues. Brazillian wax was the next generation of full body hairless trend and currently this trend dominates young girls.
+In Ancient Egypt, Middle East and Turkey women shaving public parts was a norm. In Ancient Greek woman also shaved their public seen hair as well as their pubic hairs. In Rome mostly the upper class had this trend. This trend usually stuck. Queen Victoria trimmed her eyebrows. In 1915 the first armless sleeves ad was up and woman having hair on their armpits regarded as not so feminin. This trend escalated in USA. Skirts, shorter skirts, mini skirts forced woman to shave their legs in USA. With the Bikini Ads woman started to shave their pubic hairs. This trend still continues. Brazillian wax was the next generation of full body hairless trend and currently this trend dominates young girls.
 
 #### Cool War Tactics
 - In WW1 the allies became used to the smell of chemical weapons and would put their gas masks on quickly. The Germans changed their tactics and would use nearly odorless vomit-inducing chemicals that would absorb quickly into the lungs first. Then, once soldiers were vomiting and couldn't keep their gas masks on - they would fire the main artillery barrage containing the lethal chemicals.
 
 - "How many mines does it take to make a minefield? One sign." The British pulled a dirty trick during the African campaign in WWII. At every well and oasis they could find they hung a sign that said "Danger! Poison!" In English and German. It was only when the Germans complained that poisoning wells was a warcrime that the British pointed out that yes, poisoning wells was a crime, but merely hanging signs was not. The water was perfectly drinkable.
 
-- In Iranian-Iraq war while the Iranian troops were on Marsh land Iraq send thousands of volts to the land frying all the troops
+- In Iranian-Iraq war while the Iranian troops were on Marsh land. Iraq send thousands of volts to the land frying all the troops
 
-- In WW2 almost all the bombs and sirens on it which made the opposite sides moral to decrease.
+- In WW2 almost all the bombs had sirens on it which made the opposite sides moral to decrease.
 
 - Napoleon's advance guards, had captured a bridge over the Danube at Vienna by falsely claiming that an armistice had been signed, and then rushing the bridge while the guards were distracted
 
@@ -222,7 +224,7 @@ UPS drivers try not to turn left. The reason is:
 - less accidents
 - more predictable schedule meaning better time estamation.
 
-`Ekol`'s second meaning is `okul` at the same time in Turkish.
+~~`Ekol`'s second meaning is `okul` at the same time in Turkish.~~
 
 #### What activity to do?
 Do something that interests you. Most of the time it'd be better to do it with people. If the person is interested in science go to a science museum with that person. If the person is interested in German culture travel to Germany with that person. Try finding mutual interests and do that activity.  
@@ -230,7 +232,7 @@ Mutual interest => more conversation about the activity => increase points in fr
 Doing something interesting => More fun, knowledge sticks more  
 
 ### Day 2: 26/01/2017
-There is a country named Guyana in South America. Most private schools there employee American teachers.
+~~There is a country named Guyana in South America. Most private schools there employee American teachers.~~
 
 ### Day 1: 25/01/2017
 #### Malaysia
