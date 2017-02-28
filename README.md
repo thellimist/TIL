@@ -20,7 +20,8 @@ Average female height in Europe: 163cm
 ### Day 29: 23/02/2017
 Never is no sound in space.
 
-### Day 28: 22/02/2017
+## Month 1
+### Day 28: 22/02/2017 - Week 4
 Rome declared war with a reason justifying their attack. The justification is always something defensive even though it is not true most of the times. 
 
 Malaysia has the 5th strongest passport. 
@@ -35,7 +36,7 @@ During the Ottoman Empire, homosexuality was decriminalized in 1858 as part of w
 ### Day 26: 20/02/2017
 Lamarckian evolution is when giraffes with shot neck finish the food on low ground and try to eat the high ground food. They'll eventually lengthen their necks and this passes to the new borns. Multiple scientists tried to experiment Lamarckian evolution but all failed.
 
-### Day 25: 19/02/2017 - Week 4
+### Day 25: 19/02/2017
 Facade: the face of a building, especially the principal front that looks onto a street or open space
 
 Fosbury flop, the technique used in high jump sport allows the jumper to maintain their center of mass below their body allowing to jump even higher.
@@ -58,7 +59,7 @@ Shangai was a small town in 18th century. After first Opium War, China opened Sh
 
 There is a corrolation between dark skin and poverty. If an individual is poor they're more likely to work in labour jobs. Most labour jobs require to work under the sun whole day. More sun exposure, darker the skin. Additionally, socio economic statuses of an individual is usually passed to their children meaning poor familiies children will most likely continue to be poor. A few generation of labour work under the sun would cause the individual to be slightly more darker than the rest of the population. 
 
-### Day 21: 15/02/2017
+### Day 21: 15/02/2017 - Week 3
 Master Plan is an architectural term meaning, modernizing an old district.
 
 ### Day 20: 14/02/2017
@@ -68,7 +69,7 @@ Master Plan is an architectural term meaning, modernizing an old district.
 ### Day 19: 13/02/2017
 Modern plastic surgery techniques were developed initialy in WW1. So many soldiers had disfigured faces and limbs so a lot of people tried to fix it.
 
-### Day 18: 12/02/2017 - Week 3
+### Day 18: 12/02/2017
 #### Virus
 There are 10^31 viruses in the oceans alones. There are viruses which can be beneficial for humans killing unwanted bacterias. What makes virus interesting is they don't have any metabolizm meaning they don't produce energy. They mimic other stuff to fool cells thinking it's something they need. Afterwards mostly by chance they find their way to the nucleus of the cell. They trick the nucleus to get in the pore. They trick the cell to think the genetic code of the virus belongs to a specific part of the organisms genetic code. The cell splices their genetic code and add the virus genetic code. Afterwards the cell is highjacked and the virus does whatever it is programmed for. Mostly the cell produces more viruses thinking it needs it. At some point the newly made viruses should leave the cell but since the viruses are most of the time too big to pass the membrane, the virus hacks the cell to cut the membrane resulting all of the viruses free and killing the cell. Cell dying is merely a side effect. Viruses can make the host to vomit, diarrhea etc. eventually killing it. Evolutionary killing the host does not benefit the virus but it has other benefits like faster reproduction etc. The process can differ in different types of viruses. This is a general explanation and an example of how it works.
 
@@ -103,7 +104,7 @@ Scandanavia are Norway, Sweden, Denmark. Northdic countries are Norway, Sweden, 
 
 In oil economic crisis a German company TRUMPF did not lay workers. Instead they decreased the amount of time each worker had to work. Usually 3 days per week. That way they did not lose the talent and handled the crisis good enough.
 
-### Day 14: 8/02/2017
+### Day 14: 8/02/2017 - Week 2
 Tagalog is Filipino. (There is a bit difference but ¯\_(ツ)_/¯)
 
 ### Day 13: 7/02/2017
@@ -124,7 +125,7 @@ McDonalds main business is not food, it is real estate.
 
 In China woman who are not married until 27 are called "leftover" woman.
 
-### Day 11: 5/02/2017 - Week 2
+### Day 11: 5/02/2017
 
 - Yugoslavia means "Land of the Southern Slavs".
 - Salary derives fromt the latin word salarium which means salt-money. Salt used as a currency at some time periods.
@@ -159,7 +160,7 @@ TIL how to make origami owl. Wait? Does this belong here? Not sure w/e.
 
 Pixar plays the same soundtrack over and over again in both happy and sad scenes. The soundtrack becomes their soundtrack in the viewers mind making them more emotionally effective. [source](https://www.youtube.com/watch?v=i8HePfa7WYs)
 
-### Day 7: 1/02/2017
+### Day 7: 1/02/2017 - Week 1
 Word Count: 
 - Japanese - 500,000
 - Korean   - 500,000
