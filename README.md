@@ -2,14 +2,14 @@
 Daily short summaries of what I learned that day.
 
 ## Logs
-### Day 30: 27/02/2017
+### Day 33: 27/02/2017
 Practicing physical activities do not develop muscle memory. It increases the coverage of Myelin on Norons which makes the speed of information travel faster.
 
-### Day 30: 26/02/2017
+### Day 32: 26/02/2017
 Books are like TV shows. If it's boring stop readng a pick another book
 
-### Day 30: 25/02/2017
-Sevan Nisayen
+### Day 31: 25/02/2017
+Nothing worth writing here
 
 ### Day 30: 24/02/2017
 Average male height in Asia: 162cm
