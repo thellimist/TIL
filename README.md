@@ -2,6 +2,10 @@
 Daily short summaries of what I learned that day.
 
 ## Logs
+### Day 35: 1/03/2017
+#### USSR Stagnation
+USSR was a super force competing with USA. It had almost everything less than USA in 1945. Till 1955 USSR saw really high growth in all sectors. It became the #1 steel producer, #1 coal production and #1 oil exporter in the world. But there was a flaw in the system. The market was controlled by the state. It was not natural meaning with the wrong policies, important sectors could see negative growth. USSR was trying to compete with USA, reserving a lot of budget to military etc. USSR was focusing on agriculture. It was the #1 producer of wheat but lacking the production of meat. Eventually this state controlled economy flourished many industries and lacked many other industries. Most important lacking industry was agriculture. USSR couldn't produce enough resources to feed their people so it started to import food. The food was paid by the exported oil money. Saudi Arabia focused heavly on oil production and made the oil prices drop dramatically. This resulted less income for USSR. With all the other high expenses like Military USSR couldn't find enough money to import food so it borrowed money from western banks. This action led USSR having less control in Eastern European countries. Eventually the decisions that were made got worser and 1980's USSR had a really bad industrial quality along with bad everything else. After the economy dipping down the country tried to do dramatic reforms which led to a coup by the communists which decreased the autority of the state and collapse of the system.
+
 ### Day 34: 28/02/2017
 Commercial planes do not pass 0.8 mach speed because the drag is to high between 0.8 mach and 1.2 mach. Supersonic jets prefer to fly faster than 1.2 mach since the drag is lower.
 
