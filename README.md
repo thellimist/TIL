@@ -2,6 +2,18 @@
 Daily short summaries of what I learned that day.
 
 ## Logs
+### Day 38: 4/03/2017
+- Umayyad Caliphate (Emevi) Gold coins were called dinars while silver coins were called dirhams.
+
+### Day 37: 3/03/2017
+#### Nuclear Bombs
+When an unstable atom gets an extra neutrons it becames more unstables and breaks it's bonds releasing more neutrons. When multiple unstable atoms are present this can make a chain reaction in result a huge energy is released. If the amount of unstable atoms is too low the chain reactions won't start. If the amount is too high it'll release heat too fast and before the chain reaction completes the container and everything will melt. This is called meltdown.
+
+In nature Uranium ores have both normal Uranium and unstable Uranium together. To use uranium for nuclear power one must seperate things. Since both uraniums are the same materials, traditional methods won't work. There's an expensive method where making the uranium gas and then gas centrifuge it. This way they can be seperated.
+
+### Day 36: 2/03/2017
+
+
 ### Day 35: 1/03/2017
 #### USSR Stagnation
 USSR was a super force competing with USA. It had almost everything less than USA in 1945. Till 1955 USSR saw really high growth in all sectors. It became the #1 steel producer, #1 coal production and #1 oil exporter in the world. But there was a flaw in the system. The market was controlled by the state. It was not natural meaning with the wrong policies, important sectors could see negative growth. USSR was trying to compete with USA, reserving a lot of budget to military etc. USSR was focusing on agriculture. It was the #1 producer of wheat but lacking the production of meat. Eventually this state controlled economy flourished many industries and lacked many other industries. Most important lacking industry was agriculture. USSR couldn't produce enough resources to feed their people so it started to import food. The food was paid by the exported oil money. Saudi Arabia focused heavly on oil production and made the oil prices drop dramatically. This resulted less income for USSR. With all the other high expenses like Military USSR couldn't find enough money to import food so it borrowed money from western banks. This action led USSR having less control in Eastern European countries. Eventually the decisions that were made got worser and 1980's USSR had a really bad industrial quality along with bad everything else. After the economy dipping down the country tried to do dramatic reforms which led to a coup by the communists which decreased the autority of the state and collapse of the system.
