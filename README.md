@@ -2,6 +2,19 @@
 Daily short summaries of what I learned that day.
 
 ## Logs
+### Day 43: 9/03/2017
+Pythagorean maths was discovered 1000 years before him in Babylon.
+
+### Day 42: 8/03/2017
+
+### Day 41: 7/03/2017
+Cossacks where a mix of Mongols and Slav.
+
+### Day 40: 6/03/2017
+Most important business value is the one which is not replicable by others.
+
+### Day 39: 5/03/2017
+
 ### Day 38: 4/03/2017
 - Umayyad Caliphate (Emevi) Gold coins were called dinars while silver coins were called dirhams.
 
@@ -12,7 +25,6 @@ When an unstable atom gets an extra neutrons it becames more unstables and break
 In nature Uranium ores have both normal Uranium and unstable Uranium together. To use uranium for nuclear power one must seperate things. Since both uraniums are the same materials, traditional methods won't work. There's an expensive method where making the uranium gas and then gas centrifuge it. This way they can be seperated.
 
 ### Day 36: 2/03/2017
-
 
 ### Day 35: 1/03/2017
 #### USSR Stagnation
