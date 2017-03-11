@@ -2,6 +2,9 @@
 Daily short summaries of what I learned that day.
 
 ## Logs
+### Day 44: 10/03/2017
+Belgium has three districts. North (Dutch), South (French) and a seperate district for Brussels.
+
 ### Day 43: 9/03/2017
 Pythagorean maths was discovered 1000 years before him in Babylon.
 
