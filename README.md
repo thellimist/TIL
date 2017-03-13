@@ -2,6 +2,14 @@
 Daily short summaries of what I learned that day.
 
 ## Logs
+### Day 47: 13/03/2017
+
+### Day 46: 12/03/2017
+The Siege of Tyre (332BC) Alexander the Great, built a bridge to the island, surrounded the island with superiour number of galleys and conquerered the city Tyre in Lebanon
+
+### Day 45: 11/03/2017
+TODO: ANTIBACTIRIEAL WRITE HERE!!
+
 ### Day 44: 10/03/2017
 Belgium has three districts. North (Dutch), South (French) and a seperate district for Brussels.
 
