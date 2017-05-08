@@ -1,6 +1,11 @@
 # TIL
 Daily short summaries of what I learned that day.
 
+## Result
+I wanted to make my everyday learnings more efficient. I did learn some of the information I wrote here. The information was random so the effort was not worth it. Quit after 47 days.
+
+TIL concept would be a more useful if there's an exam to prepare rather than random knowledge.
+
 ## Logs
 ### Day 47: 13/03/2017
 
